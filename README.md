@@ -3,6 +3,9 @@ A little Dice's game to play with your friends!
 
 https://the-dice-gamz.herokuapp.com/
 
+![Screenshot 2022-03-07 at 18 23 46](https://user-images.githubusercontent.com/86610960/157085808-4428a670-6e26-4b75-a579-b7254873599a.jpg)
+
+
 ## GAME RULES 🤩⭐
 
 - The game has 2 players, playing in rounds
@@ -11,6 +14,7 @@ https://the-dice-gamz.herokuapp.com/
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
+![Screenshot 2022-03-07 at 18 24 48](https://user-images.githubusercontent.com/86610960/157085861-d2fa718f-d4ec-4b59-a17a-285e3ccac3c5.jpg)
 
 
 ## Features to implement 💡🤔
